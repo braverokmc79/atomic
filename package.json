@@ -13,7 +13,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cferdinandi/atomic"
+		"url": "https://github.com/braverokmc79/atomic"
 	},
 	"devDependencies": {
 		"gulp": "^3.9.1",
